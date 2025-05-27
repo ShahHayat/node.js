@@ -26,10 +26,10 @@ Node.js uses an event-driven, non-blocking I/O model that makes it lightweight a
 └───────────────────────┘
 ```
 
-```
-![image](https://github.com/ShahHayat/node.js/attachments/architecture.png)
+<p align="center">
+  <img src="attachments/architecture.png" alt="Project Logo" width="400"/>
+</p>
 
-```
 
 ## 2. Detailed Event Loop Phases
 
